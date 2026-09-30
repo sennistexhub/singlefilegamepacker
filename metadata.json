@@ -1,0 +1,6 @@
+{
+  "name": "UnityPack Studio",
+  "description": "Single-file offline HTML bundler and Virtual File System compiler for Unity WebGL and HTML5 games with full file:// protocol support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
